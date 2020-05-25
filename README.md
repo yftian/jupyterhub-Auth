@@ -58,7 +58,7 @@ step2:
             if not res:
                 return None
 ```
-[详见ldapauthenticator.py]()
+[详见ldapauthenticator.py](https://github.com/yftian/jupyterhub-Auth/blob/master/ldapauthenticator.py)  
 step3:  
 编辑并使用以下配置  
 ```
